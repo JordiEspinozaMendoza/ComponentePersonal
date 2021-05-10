@@ -1,0 +1,13 @@
+C:\Users\gues\source\repos\VisorFotos\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\gues\source\repos\VisorFotos\Prueba\bin\Debug\Prueba.exe
+C:\Users\gues\source\repos\VisorFotos\Prueba\bin\Debug\Prueba.pdb
+C:\Users\gues\source\repos\VisorFotos\Prueba\bin\Debug\VisorFotos.dll
+C:\Users\gues\source\repos\VisorFotos\Prueba\bin\Debug\VisorFotos.pdb
+C:\Users\gues\source\repos\VisorFotos\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\gues\source\repos\VisorFotos\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Users\gues\source\repos\VisorFotos\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\gues\source\repos\VisorFotos\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\gues\source\repos\VisorFotos\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\gues\source\repos\VisorFotos\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\gues\source\repos\VisorFotos\Prueba\obj\Debug\Prueba.exe
+C:\Users\gues\source\repos\VisorFotos\Prueba\obj\Debug\Prueba.pdb

@@ -1,0 +1,8 @@
+C:\Users\gues\source\repos\VisorFotos\VisorFotos\bin\Debug\VisorFotos.dll
+C:\Users\gues\source\repos\VisorFotos\VisorFotos\bin\Debug\VisorFotos.pdb
+C:\Users\gues\source\repos\VisorFotos\VisorFotos\obj\Debug\VisorFotos.csprojAssemblyReference.cache
+C:\Users\gues\source\repos\VisorFotos\VisorFotos\obj\Debug\VisorFotos.UserControl1.resources
+C:\Users\gues\source\repos\VisorFotos\VisorFotos\obj\Debug\VisorFotos.csproj.GenerateResource.cache
+C:\Users\gues\source\repos\VisorFotos\VisorFotos\obj\Debug\VisorFotos.csproj.CoreCompileInputs.cache
+C:\Users\gues\source\repos\VisorFotos\VisorFotos\obj\Debug\VisorFotos.dll
+C:\Users\gues\source\repos\VisorFotos\VisorFotos\obj\Debug\VisorFotos.pdb
